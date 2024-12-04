@@ -26,3 +26,5 @@ I have contributed as a playtester for the following mapsets
 ## Drawing 
 I enjoy drawing pencil-shaded sketches from time to time. My genres are biomechanical art and science-fiction art. Occasionally, I dabble with pixel art using Aseprite. My inspirations are H.R.Giger, Zdzisław Beksiński, Salvador Dali, and Mariusz Lewandowski.
 
+## Digital Garden/Personal Wiki
+As a continuous and lifelong learner, I always record my thoughts, learnings, and experiences in my personal wiki, made using Obsidian and Quartz, a static markdown-to-HTML site generator. Treat my personal wiki much like Wikipedia itself -- a non-linear and perpetually-ongoing linked collection of notes in all topics ranging from psychology, neuroscience to spaceflight and programming. I consider this as my second brain and routinely maintain and update it.
