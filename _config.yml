@@ -75,13 +75,13 @@ author:
       icon:  "fa-brands fa-github"
       url: "https://github.com/ZeroTheRed"
 
-    - label: "Phone"
+    - label: "+91 99622 59210"
       icon: "fa-solid fa-phone"
-      url: "+91 99622 59210"
+      url: "tel:+91 99622 59210"
 
-    - label: "E-mail"
+    - label: "tushar.sairam.s@gmail.com"
       icon: "fa-solid fa-envelope"
-      url: "tushar.sairam.s@gmail.com"
+      url: "mailto:tushar.sairam.s@gmail.com"
 
 
 footer:
