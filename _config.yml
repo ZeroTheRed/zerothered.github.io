@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: The Hypercube
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+twitter_username: Phoenix0Wright
+github_username: ZeroTheRed
 minimal_mistakes_skin: default
 search: true
 
@@ -56,48 +56,51 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  # - jekyll-archives
 
 author:
-  name   : "First Lastname"
+  name   : "Tushar Sairam"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Robotics, Aerospace, and Programming Enthusiast"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Personal Knowledge Wiki"
+      icon: "fa-solid fa-brain"
+      url: "https://zero-space.pages.dev/"
+
+    - label: "Tushar Sairam - LinkedIn"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://www.linkedin.com/in/tushar-sairam/"
+
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon:  "fa-brands fa-github"
+      url: "https://github.com/ZeroTheRed"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: ""
+      icon: "fa-solid fa-brain"
+      url: "https://zero-space.pages.dev/"
+
+    - label: ""
+      icon:  "fa-brands fa-github"
+      url: "https://github.com/ZeroTheRed"
+
+    - label: ""
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://www.linkedin.com/in/tushar-sairam/"
 
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:

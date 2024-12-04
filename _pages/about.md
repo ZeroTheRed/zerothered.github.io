@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a simulations, robotics, and programming enthusiast with a **Dual Masters in Robotics and Autonomous Systems** and a **Bachelors in Instrumentation and Control Engineering**. I have a strong background in Python and C++ programming, algorithm and robot simulations, control systems design, and computer vision. I am open to contributing my skills to companies and research organizations looking for an *adept problem solver*, *quick and adaptive learner*, and a *dynamic cross-functional team collaborator*.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My vision and long-term career goals are to leverage my strong interdisciplinary knowledge in autonomous systems, robot controls, and programming towards making impactful contributions to the fields of aerospace & defence, healthcare, R&D, Earth observation, agriculture, and physics. 
+
+My hobbies include drawing, reading, maintaining by personal wiki, and developing video game maps and mods. 
